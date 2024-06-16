@@ -1,0 +1,9 @@
+name: StuartTheme
+type: theme
+description: 'Starter theme.'
+core_version_requirement: ^10
+base theme: false
+package: drupalito
+screenshots: screenshots.jpg
+logo: logo.png
+hidden: true

@@ -1,0 +1,9 @@
+{
+    "description": "Stuart theme.", 
+    "homepage": "https://github.com/Drupalito/drupal10_repositories", 
+    "license": "MIT", 
+    "name": "drupalito/stuart", 
+    "require": {}, 
+    "type": "drupal-theme", 
+    "version": "0.1-dev"
+}
